@@ -1,6 +1,6 @@
 # checkService
 
-Simple script to check wether a web service is responding to a certain port. Wrote it to monitor PACS servers.
+Simple script to check whether a web service is responding to a certain port. Wrote it to monitor PACS servers.
 
 to run:
       sudo ./checkService.sh [ip] [port]
